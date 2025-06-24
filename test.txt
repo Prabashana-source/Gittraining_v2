@@ -1,4 +1,0 @@
-this file is for test the dev branch
-this is for samle download only
-test
-this file is edited from local machine
